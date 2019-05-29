@@ -4,7 +4,7 @@ const spotifyWebApi = new Spotify();
 export function fromLoginUrl() {
   const authEndpoint = "https://accounts.spotify.com/authorize";
   const clientId = "3c89e47259484dcb83163e8f47069497";
-  const redirectUri = "http://localhost:3000";
+  const redirectUri = "https://alitursucular.github.io/spotify-playlists-quiz-with-react-demo";
   // This is the data we ask for. Spotify will prompt it to the user for permission.
   const scopes = [
     "playlist-read-private",
