@@ -6,7 +6,7 @@ selected playlist as props from its parent App.js. It's resposibilities are:
     1. get all tracks of the selected playlist,
     2. clean this tracklist data and set state,
     3. return this clean array of tracks to the parent,
-    4. be responsive for playlist changes (if props changes) and repeat above.
+    4. be responsive for playlist changes (if props changes), and repeat above.
 
 NOTE: We have an explanation about usage of componentDidUpdate method in <CreateQuestions />  
 

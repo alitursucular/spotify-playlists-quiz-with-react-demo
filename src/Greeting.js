@@ -1,8 +1,10 @@
 /***********************
-	
-This is another simple component and a child of <LoginOrGreeting /> It welcomes
-the user with users name and surname. It also displays how many playlists found
-in users Spotify account.
+
+This is another simple component and a child of <LoginOrGreeting />. It renders 
+the welcome message. In addition to that, it displays how many playlists found 
+in users Spotify account. (*Note that, we could split this component further. 
+Currently, it does not only render the HTML, but also fetches name, surname and 
+number of playlists through its lifecycle method).
 
 ***********************/
     

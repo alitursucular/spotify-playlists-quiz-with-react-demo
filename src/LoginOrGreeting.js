@@ -1,6 +1,6 @@
 /***********************
 	
-This component acts as a container for login screen and greeting. It is the very first component
+This component acts as a container for the login screen and greeting. It is the very first component
 that App.js renders. Initially, isLogged and accessToken states are false and null. Therefore, it 
 first renders <AccountLogin/>. Its main responsibility is to decide which component to render and 
 report this to its parent, App.js. 
@@ -11,7 +11,7 @@ moment, since we are logged in, our component renders <Greeting /> and passes ac
 
 NOTE: If we can't obtain the URL, we wouldn't have access_token. Therefore, our component would 
 render <AcountLogin /> again. However, this is not an endless loop! Since the generated link in
-<AcountLogin /> makes the actual login request to Spotify, it has to be clicked bu user.
+<AcountLogin /> makes the actual login request to Spotify, it has to be clicked by the user.
 
 ***********************/
 

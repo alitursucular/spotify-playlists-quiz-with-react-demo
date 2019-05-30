@@ -7,8 +7,8 @@ but for some reason I made it this way...
 responsibilities are:
     1. getting user playlists from Spotify,
     2. displaying them in a form of HTML select element,
-    3. making a callback to its parent of the selected playlist id,
-    4. staying alert for playlist changes made by the user and repeat above.
+    3. making a callback to its parent for the selected playlist id,
+    4. staying alert for playlist changes made by the user, and repeat above.
 
 NOTE: We have an explanation about usage of componentDidUpdate method in <CreateQuestions />  
 
