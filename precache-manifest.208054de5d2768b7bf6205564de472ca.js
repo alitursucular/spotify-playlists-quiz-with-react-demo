@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "079cc1178011fcd5b7639f83470ca869",
+    "revision": "a7d163c4360c286e78e7678d41fae36e",
     "url": "/spotify-playlists-quiz-with-react-demo/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spotify-playlists-quiz-with-react-demo/static/css/2.266e55a5.chunk.css"
   },
   {
-    "revision": "3898867eaf3cdac63d49",
+    "revision": "6cc0f40e463c6094d0ef",
     "url": "/spotify-playlists-quiz-with-react-demo/static/css/main.670ddb61.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spotify-playlists-quiz-with-react-demo/static/js/2.33f4a4b4.chunk.js"
   },
   {
-    "revision": "3898867eaf3cdac63d49",
-    "url": "/spotify-playlists-quiz-with-react-demo/static/js/main.0c9134df.chunk.js"
+    "revision": "6cc0f40e463c6094d0ef",
+    "url": "/spotify-playlists-quiz-with-react-demo/static/js/main.8e60cc89.chunk.js"
   },
   {
     "revision": "22c76759a05ea8c727c4",
